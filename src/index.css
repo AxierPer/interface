@@ -3,6 +3,21 @@
 @tailwind utilities;
 
 body{
-  background: #202020;
+  background: #27272a;
   color: white;
+}
+
+/* Chrome, Edge y Safari */
+::-webkit-scrollbar {
+    display: none;
+}
+
+/* Firefox */
+html {
+    scrollbar-width: none; /* Ocultar la barra de desplazamiento */
+}
+
+/* Opcional: overflow */
+html, body {
+    overflow: auto; /* Mantener scroll funcional */
 }
