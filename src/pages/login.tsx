@@ -2,7 +2,7 @@ import ButtonLogin from "../components/buttons/ButtonLogin"
 
 export default function Login() {
   return (
-    <div className="max-w-xl mx-auto text-center bg-zinc-700 bg-opacity-30 rounded-lg p-5 h-auto">
+    <div className="max-w-xl mx-auto text-center bg-zinc-700 bg-opacity-30 rounded-lg p-5 h-auto mt-36">
       <form>
         <label className="text-white font-bold text-xl">User</label>
         <input
