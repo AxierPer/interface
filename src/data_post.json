@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Hoja multicolor",
+    "preview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+    "post": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet mollis magna, eu venenatis sapien. Pellentesque pretium magna quis est bibendum, quis tempus elit condimentum. Fusce consequat maximus diam in dictum. Nullam volutpat dapibus pulvinar. Phasellus ut ipsum sed mauris tincidunt consequat. Proin vitae placerat orci, sit amet volutpat lectus. Quisque sollicitudin elit commodo nulla imperdiet, tempor elementum nisl pulvinar. Proin euismod, turpis eu sodales tincidunt, elit felis ullamcorper nunc, vel dignissim tortor nisl sollicitudin nunc.Mauris suscipit, dui a vehicula dictum, ligula nunc tristique metus, sed facilisis risus erat sit amet quam. Suspendisse vel libero eget mauris ultricies condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur varius lacinia dui, ac scelerisque lacus viverra venenatis. Nam venenatis quam vel tellus fermentum feugiat. Vivamus egestas erat id lacinia fermentum. Aliquam et accumsan odio. Praesent faucibus, sapien ac laoreet porta, diam risus congue diam, tempor hendrerit felis augue ac urna. In hac habitasse platea dictumst. Nullam placerat vel orci quis sagittis. Morbi varius, odio vitae interdum tempor, nisl mi pretium sem, vel lacinia dolor erat at lectus. Ut non elit metus. Etiam nibh neque, mattis vel neque vel, tempor rutrum nulla.Integer sed velit consectetur felis luctus fermentum et quis neque. Duis eu vulputate ex. Morbi faucibus ante non egestas luctus. Sed est dolor, congue ac nibh ac, sodales finibus dui. Cras malesuada neque non mi sodales dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed nec nibh bibendum, tristique lectus egestas, venenatis velit.Curabitur nec condimentum elit. Curabitur a odio est. Morbi iaculis, lacus sed luctus faucibus, lorem purus semper enim, eget scelerisque orci purus sit amet ex. Pellentesque eu diam metus. Aliquam at magna vel nisi condimentum pharetra et vitae dui. Curabitur semper maximus pretium. Nullam placerat enim a risus fringilla, in consectetur orci iaculis. Phasellus laoreet viverra sem. Etiam vel lacus iaculis, rutrum lectus at, finibus felis.",
+    "author": "Autor 1",
+    "dateCreate": "2024-09-05",
+    "dateUpdate": "2024-10-08",
+    "img": "https://www.educaciontrespuntocero.com/wp-content/uploads/2020/04/mejores-bancos-de-imagenes-gratis.jpg.webp"
+  },
+  {
+    "id": 2,
+    "title": "Corazon Cosmico",
+    "preview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+    "post": "Aqui debe ir todo el contenido del post 2",
+    "author": "Autor 2",
+    "dataCreate": "2024-01-27",
+    "dateUpdate": "2024-06-30",
+    "img": "https://media.es.wired.com/photos/650b2a2e72d73ca3bd5ef0cc/16:9/w_2560%2Cc_limit/Business-OpenAI-Dall-E-3-heart.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Arte abstracto",
+    "preview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+    "post": "Aqui debe ir todo el contenido del post 3",
+    "author": "Autor 3",
+    "dataCreate": "2024-02-29",
+    "dateUpdate": "2024-05-25",
+    "img": "https://img.freepik.com/foto-gratis/ilustracion-fondo-abstracto-formas-diseno-multicolor-generadas-ia_188544-15582.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Paisaje",
+    "preview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+    "post": "Aqui debe ir todo el contenido del post 4",
+    "author": "Autor 4",
+    "dataCreate": "2024-07-24",
+    "dateUpdate": "2024-10-30",
+    "img": "https://media.es.wired.com/photos/6501e7429fa9000811a95fe8/16:9/w_2560%2Cc_limit/Adobe%2520Firefly.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Ilustracion IA",
+    "preview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+    "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type Esta debe ser el preview del post 5",
+    "author": "Autor 5",
+    "dataCreate": "2024-10-01",
+    "dateUpdate": "2024-10-24",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAaWu41PnuFia-KLhE7V9INkVgtLl43vJHw&s"
+  }
+]

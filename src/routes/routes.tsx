@@ -4,6 +4,7 @@ import Home from "../pages/home"
 import Login from "../pages/login"
 import { Navigate } from "react-router-dom"
 import Register from "../pages/register"
+import View from "../pages/view"
 
 export const AppRoute: AppRoutes[] = [
   {
@@ -30,7 +31,15 @@ export const AppRoute: AppRoutes[] = [
     path: '/register',
     element: (
       <LoginLayout>
-        <Register></Register>
+        <Register />
+      </LoginLayout>
+    )
+  },
+  {
+    path: 'view/:id',
+    element: (
+      <LoginLayout>
+        <View />
       </LoginLayout>
     )
   }
@@ -40,5 +49,6 @@ export const AppRoute: AppRoutes[] = [
 export const RoutePaths = {
   home: '/home',
   login: '/login',
-  register: '/register'
+  register: '/register',
+  view: '/view/'
 };
