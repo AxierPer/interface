@@ -5,6 +5,7 @@ import Login from "../pages/login"
 import { Navigate } from "react-router-dom"
 import Register from "../pages/register"
 import View from "../pages/view"
+import CreateBlog from "../pages/createBlog"
 
 export const AppRoute: AppRoutes[] = [
   {
@@ -42,6 +43,14 @@ export const AppRoute: AppRoutes[] = [
         <View />
       </LoginLayout>
     )
+  },
+  {
+    path: 'create-blog',
+    element: (
+      <LoginLayout>
+        <CreateBlog />
+      </LoginLayout>
+    )
   }
 ]
 
@@ -50,5 +59,6 @@ export const RoutePaths = {
   home: '/home',
   login: '/login',
   register: '/register',
-  view: '/view/'
+  view: '/view/',
+  createBlog: '/create-blog'
 };

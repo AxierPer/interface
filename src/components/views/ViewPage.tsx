@@ -17,7 +17,7 @@ export default function ViewPage({ id }: { id: string }) {
           </h1>
 
           <div className="w-5/6 m-auto p-3">
-            <img src={datosJson.img} className="w-full " />
+            <img src={datosJson.img} title={datosJson.post} className="w-full " />
             <p className="text-lg mt-4">{datosJson.post}</p>
             <p className="text-sm font-semibold text-zinc-500 mt-2">By {datosJson.author} at {datosJson.dateCreate}</p>
           </div>
